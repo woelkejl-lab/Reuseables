@@ -21,3 +21,5 @@ ul li a {
 ul li a:hover {
   background-color: #222222;
 }
+table, tr, td {
+        border: 1px solid black;
